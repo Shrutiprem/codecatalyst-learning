@@ -1,2 +1,2 @@
 This is a sample file.
-Changes made by secondary branch.
+Changes made by secondary branch
